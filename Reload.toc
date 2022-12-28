@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: Reload
+## Version: 0.1.0
+## Notes: Reload UI with /rl
+## Author: Iyadriel
+## DefaultState: Enabled
+Reload.lua
+
+
